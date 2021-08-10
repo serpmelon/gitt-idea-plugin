@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.serpmelon.gittideaplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.serpmelon.gittideaplugin.MyBundle
 
 class MyApplicationService {
 
